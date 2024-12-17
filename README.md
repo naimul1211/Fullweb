@@ -10,18 +10,6 @@ Check out the live demo here: [Sweet Treats Bakery](#)
 
 ---
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 📖 Overview
 Sweet Treats Bakery is a responsive website with:
 - A welcoming home page.
